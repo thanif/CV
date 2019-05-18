@@ -1,0 +1,196 @@
+%-------------------------
+% Resume in Latex
+% Author : Talha Hanif Butt
+
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[2]{
+  \item\small{
+    \textbf{#1}{: #2 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{-4pt}}
+
+\renewcommand{\labelitemii}{$\circ$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  CV STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%----------HEADING-----------------
+\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+  \textbf{{\Large Talha Hanif Butt}} & Email : \href{mailto:thanifbutt@gmail.com}{thanifbutt@gmail.com}\\
+  \href{https://sites.google.com/view/talhahanifbutt}{http://www.talhahanifbutt.com}& LinkedIn : \href{https://pk.linkedin.com/in/talhahanifbutt}{talhahanifbutt}\\ 
+& GitHub : \href{https://github.com/thanif}{thanif}\\
+
+
+
+\end{tabular*}
+
+
+%-----------EDUCATION-----------------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {National University of Computer and Emerging Sciences}{Lahore}
+      {Master of Science in Data Science}{Aug 2018 -- Present}
+    \resumeSubheading
+      {National University of Computer and Emerging Sciences}{Islamabad}
+      {Bachelor of Science in Computer Science}{Aug 2013 -- June 2017}
+  \resumeSubHeadingListEnd
+
+
+%-----------EXPERIENCE-----------------
+\section{Experience}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {Artificial Intelligence Research Lab}{UET, Lahore}
+      {Summer Intern}{May 2019 - Present}
+      
+        
+          I am working on Language Translation.
+        
+         \resumeSubheading
+      {Computer Vision and Graphics Lab}{LUMS, Lahore}
+      {MS Thesis Student}{Feb 2019 - Present}
+      
+        
+          I am working on Cross View Image Matching.
+
+           \resumeSubheading
+      {Vision Processing Lab}{ITU, Lahore}
+      {Summer Intern}{Summer 2018}
+      
+        
+          I worked on an end-to-end model for self drivivng car.
+ 
+           \resumeSubheading
+      {Recognition, Vision and Learning Lab}{FAST NUCES, Islamabad}
+      {Machine Learning Intern}{Sep 2016 - May 2018}
+      
+        
+          Worked on the problem of Mastering Tic Tac Toe using Self play and Reinforcement Learning.\\
+
+Worked on the problem of Autonomous driving in car simulations.\\
+
+Worked on the problem of Textual Image deblurring.\\
+
+Worked on the problem of Neural Steganography.\\
+
+Worked on the problem of Image Super Resolution.\\
+
+Worked on the problem of Nerve Segmentation.
+
+     \resumeSubheading
+      {Recognition, Vision and Learning Lab}{FAST NUCES, Islamabad}
+      {Summer Intern}{Summer 2016}
+      
+        
+          Participated in DiDi Research Algorithm Competition for predicting number of drivers required in a certain area at a certain time.
+          
+               \resumeSubheading
+      {Dr. Majid Khan}{FAST NUCES, Islamabad}
+      {Research Assistant}{Aug 2015 - Dec 2015}
+      
+        
+          Worked on the practical implementation of data security and information hiding algorithms.
+
+  \resumeSubHeadingListEnd
+
+
+%-----------PROJECTS-----------------
+\section{Projects}
+  \resumeSubHeadingListStart
+    \resumeSubItem{Skin Classification}
+      {Built a deep learning model that classifies skin images with samples of 8 common skin pathologies and carcinoma.
+}
+\resumeSubItem{Sentiment Analysis}
+      {Built a model for sentiment analysis of movie reviews.}
+      \resumeSubItem{Indoor Self Driving Car}
+      {Built a model for driving in a corridor.}
+    \resumeSubItem{Alpha Go Zero on Tic Tac Toe}
+      {Mastering tic tac toe using self play and reinforcement learning.}
+           \resumeSubItem{Autonomous Driving in Car Simulations}
+      {Worked on simulators including Carla and TORCS along with Euro Truck Simulator 2.}
+    \resumeSubItem{Nerve Segmentation}
+      {Predict nerve structure from ultrasound images of the
+neck.}
+    \resumeSubItem{Fish Localization}
+      {Predict bounding box of fishes in images.}
+       \resumeSubItem{User Activity Recognition}
+      {Predict user activity based on sensor's data.}
+  \resumeSubHeadingListEnd
+
+%
+%--------PROGRAMMING SKILLS------------
+\section{Technical Skills}
+  \resumeSubHeadingListStart
+    \item{
+      \textbf{Languages}{: Python, C/C++, R, C\#, Java, Go, JavaScript, MATLAB/Octave, Lua}}
+      \\
+      \item{
+     \textbf{Frameworks}{: Tensorflow, Scipy, Keras, Scikit-learn, OpenCV, Caffe, Torch, Django}}
+     \\
+     \item{
+     \textbf{Others}{: Bash, Git, Android, Latex, SSH}}
+    
+  \resumeSubHeadingListEnd
+
+
+%-------------------------------------------
+\end{document}
