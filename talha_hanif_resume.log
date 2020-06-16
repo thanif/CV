@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2020.1.20)  25 APR 2020 21:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2020.6.11)  16 JUN 2020 14:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **talha_hanif_resume.tex
 (./talha_hanif_resume.tex
 LaTeX2e <2016/02/01>
-Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
+Babel <3.9q> and hyphenation patterns for 5 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
@@ -298,23 +298,40 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.96 ...			{MS Thesis Student}{Feb 2019 - Present}
+l.94       			{Data Scientist}{Jun 2020 - Present}
                                                   
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Underfull \hbox (badness 10000) detected at line 96
+Underfull \hbox (badness 10000) detected at line 94
 [][]
  []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 100.
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.98 ...			{MS Thesis Student}{Feb 2019 - Present}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) detected at line 98
+[][]
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 102.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 100.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 102.
 
 
 ! LaTeX Error: Lonely \item--perhaps a missing list environment.
@@ -323,13 +340,13 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.105 ...e Learning Engineer}{Feb 2020 - Mar 2020}
+l.107 ...e Learning Engineer}{Feb 2020 - Mar 2020}
                                                   
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Underfull \hbox (badness 10000) detected at line 105
+Underfull \hbox (badness 10000) detected at line 107
 [][]
  []
 
@@ -340,13 +357,13 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.115 ...			{Research Intern}{May 2019 - Jun 2019}
+l.117 ...			{Research Intern}{May 2019 - Jun 2019}
                                                   
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Underfull \hbox (badness 10000) detected at line 115
+Underfull \hbox (badness 10000) detected at line 117
 [][]
  []
 
@@ -357,13 +374,13 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.125       			{Summer Intern}{Summer 2018}
+l.127       			{Summer Intern}{Summer 2018}
                                            
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Underfull \hbox (badness 10000) detected at line 125
+Underfull \hbox (badness 10000) detected at line 127
 [][]
  []
 
@@ -374,13 +391,13 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.134 ...ine Learning Intern}{Sep 2016 - May 2018}
+l.136 ...ine Learning Intern}{Sep 2016 - May 2018}
                                                   
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Underfull \hbox (badness 10000) detected at line 134
+Underfull \hbox (badness 10000) detected at line 136
 [][]
  []
 
@@ -391,13 +408,13 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.145       {Summer Intern}{Summer 2016}
+l.147       {Summer Intern}{Summer 2016}
                                         
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Underfull \hbox (badness 10000) detected at line 145
+Underfull \hbox (badness 10000) detected at line 147
 [][]
  []
 
@@ -408,20 +425,20 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.158 ...{Research Assistant}{Aug 2015 - Dec 2015}
+l.160 ...{Research Assistant}{Aug 2015 - Dec 2015}
                                                   
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Underfull \hbox (badness 10000) detected at line 158
+Underfull \hbox (badness 10000) detected at line 160
 [][]
  []
 
 ! Undefined control sequence.
 \enit@enditemize ->\enit@after 
                                \endlist \ifx \enit@series \relax \else \ifnu...
-l.169   \resumeSubHeadingListEnd
+l.171   \resumeSubHeadingListEnd
                                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -432,7 +449,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@enditemize ...x \else \ifnum \enit@resuming 
                                                   =\@ne \enit@setresumekeys ...
-l.169   \resumeSubHeadingListEnd
+l.171   \resumeSubHeadingListEnd
                                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -443,7 +460,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    =
-l.169   \resumeSubHeadingListEnd
+l.171   \resumeSubHeadingListEnd
                                 
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -452,7 +469,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Undefined control sequence.
 \enit@setresumekeys ...xpandafter {\enit@savekeys 
                                                   }\xdef \enit@afterlist {#2...
-l.169   \resumeSubHeadingListEnd
+l.171   \resumeSubHeadingListEnd
                                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -463,7 +480,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...it@toks }\ifnum \enit@type 
                                                   =\z@ #3\def \enit@noexcs {...
-l.169   \resumeSubHeadingListEnd
+l.171   \resumeSubHeadingListEnd
                                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -474,7 +491,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    =
-l.169   \resumeSubHeadingListEnd
+l.171   \resumeSubHeadingListEnd
                                 
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -483,7 +500,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Undefined control sequence.
 <argument> enit@resume@series@\enit@series 
                                            
-l.169   \resumeSubHeadingListEnd
+l.171   \resumeSubHeadingListEnd
                                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -494,7 +511,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...me@#1}{\csname c@\@listctr 
                                                   \endcsname \the \csname c@...
-l.169   \resumeSubHeadingListEnd
+l.171   \resumeSubHeadingListEnd
                                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -505,7 +522,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...e \the \csname c@\@listctr 
                                                   \endcsname }\fi }
-l.169   \resumeSubHeadingListEnd
+l.171   \resumeSubHeadingListEnd
                                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -516,14 +533,14 @@ and I'll forget about whatever was undefined.
 ! You can't use `\relax' after \the.
 <recently read> \c@ 
                     
-l.169   \resumeSubHeadingListEnd
+l.171   \resumeSubHeadingListEnd
                                 
 I'm forgetting what you said and using zero instead.
 
 ! Undefined control sequence.
 \enit@enditemize ...ist \fi \ifnum \enit@resuming 
                                                   =\thr@@ \enit@setresumekey...
-l.169   \resumeSubHeadingListEnd
+l.171   \resumeSubHeadingListEnd
                                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -534,7 +551,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    =
-l.169   \resumeSubHeadingListEnd
+l.171   \resumeSubHeadingListEnd
                                 
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -543,7 +560,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Undefined control sequence.
 \enit@setresumekeys ...xpandafter {\enit@savekeys 
                                                   }\xdef \enit@afterlist {#2...
-l.169   \resumeSubHeadingListEnd
+l.171   \resumeSubHeadingListEnd
                                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -554,7 +571,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...it@toks }\ifnum \enit@type 
                                                   =\z@ #3\def \enit@noexcs {...
-l.169   \resumeSubHeadingListEnd
+l.171   \resumeSubHeadingListEnd
                                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -565,7 +582,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    =
-l.169   \resumeSubHeadingListEnd
+l.171   \resumeSubHeadingListEnd
                                 
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -574,7 +591,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Undefined control sequence.
 \enit@setresumekeys ...me@#1}{\csname c@\@listctr 
                                                   \endcsname \the \csname c@...
-l.169   \resumeSubHeadingListEnd
+l.171   \resumeSubHeadingListEnd
                                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -585,7 +602,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...e \the \csname c@\@listctr 
                                                   \endcsname }\fi }
-l.169   \resumeSubHeadingListEnd
+l.171   \resumeSubHeadingListEnd
                                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -596,7 +613,7 @@ and I'll forget about whatever was undefined.
 ! You can't use `\relax' after \the.
 <recently read> \c@ 
                     
-l.169   \resumeSubHeadingListEnd
+l.171   \resumeSubHeadingListEnd
                                 
 I'm forgetting what you said and using zero instead.
 
@@ -607,7 +624,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.169   \resumeSubHeadingListEnd
+l.171   \resumeSubHeadingListEnd
                                 
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -616,7 +633,7 @@ or  <return>  to continue without it.
 ! Extra \endgroup.
 <recently read> \endgroup 
                           
-l.169   \resumeSubHeadingListEnd
+l.171   \resumeSubHeadingListEnd
                                 
 Things are pretty mixed up, but I think the worst is over.
 
@@ -624,23 +641,23 @@ Things are pretty mixed up, but I think the worst is over.
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 191.
+(Font)              <7> on input line 193.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 191.
+(Font)              <5> on input line 193.
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 202.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 204.
  [2]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
-LaTeX Font Info:    Try loading font information for OML+cmr on input line 341.
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 343.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omlcmr.fd
 File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 341.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 343.
 
 
 ! LaTeX Error: Something's wrong--perhaps a missing \item.
@@ -649,7 +666,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.356   \resumeSubHeadingListEnd
+l.358   \resumeSubHeadingListEnd
                                 
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -661,19 +678,19 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.356   \resumeSubHeadingListEnd
+l.358   \resumeSubHeadingListEnd
                                 
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-! LaTeX Error: \begin{tabular*} on input line 356 ended by \end{itemize}.
+! LaTeX Error: \begin{tabular*} on input line 358 ended by \end{itemize}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.356   \resumeSubHeadingListEnd
+l.358   \resumeSubHeadingListEnd
                                 
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -682,7 +699,7 @@ or  <return>  to continue without it.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.356   \resumeSubHeadingListEnd
+l.358   \resumeSubHeadingListEnd
                                 
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -693,7 +710,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.356   \resumeSubHeadingListEnd
+l.358   \resumeSubHeadingListEnd
                                 
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -704,7 +721,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.356   \resumeSubHeadingListEnd
+l.358   \resumeSubHeadingListEnd
                                 
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -715,14 +732,14 @@ my insertion and my current dilemma will both disappear.
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.356   \resumeSubHeadingListEnd
+l.358   \resumeSubHeadingListEnd
                                 
 I'm guessing that you meant to end an alignment here.
 
 ! Missing { inserted.
 <inserted text> 
                 {
-l.356   \resumeSubHeadingListEnd
+l.358   \resumeSubHeadingListEnd
                                 
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -731,7 +748,7 @@ Try to go on, since this might almost work.
 ! Missing { inserted.
 <inserted text> 
                 {
-l.356   \resumeSubHeadingListEnd
+l.358   \resumeSubHeadingListEnd
                                 
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -740,7 +757,7 @@ Try to go on, since this might almost work.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.356   \resumeSubHeadingListEnd
+l.358   \resumeSubHeadingListEnd
                                 
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -751,7 +768,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.356   \resumeSubHeadingListEnd
+l.358   \resumeSubHeadingListEnd
                                 
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -762,7 +779,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.356   \resumeSubHeadingListEnd
+l.358   \resumeSubHeadingListEnd
                                 
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -773,7 +790,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.356   \resumeSubHeadingListEnd
+l.358   \resumeSubHeadingListEnd
                                 
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -784,7 +801,7 @@ my insertion and my current dilemma will both disappear.
 ! Extra }, or forgotten \endgroup.
 <recently read> \egroup 
                         
-l.356   \resumeSubHeadingListEnd
+l.358   \resumeSubHeadingListEnd
                                 
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -795,7 +812,7 @@ deleted material, e.g., by typing `I$}'.
 ! Misplaced \crcr.
 \endtabular* ->\crcr 
                      \egroup \egroup $\egroup 
-l.356   \resumeSubHeadingListEnd
+l.358   \resumeSubHeadingListEnd
                                 
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -806,7 +823,7 @@ might try typing `S' now just to see what is salvageable.
 ! Extra }, or forgotten \endgroup.
 \endtabular* ->\crcr \egroup 
                              \egroup $\egroup 
-l.356   \resumeSubHeadingListEnd
+l.358   \resumeSubHeadingListEnd
                                 
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -817,7 +834,7 @@ deleted material, e.g., by typing `I$}'.
 ! Extra }, or forgotten \endgroup.
 \endtabular* ->\crcr \egroup \egroup 
                                      $\egroup 
-l.356   \resumeSubHeadingListEnd
+l.358   \resumeSubHeadingListEnd
                                 
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -828,7 +845,7 @@ deleted material, e.g., by typing `I$}'.
 ! Extra }, or forgotten $.
 <recently read> \egroup 
                         
-l.356   \resumeSubHeadingListEnd
+l.358   \resumeSubHeadingListEnd
                                 
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -837,13 +854,13 @@ the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
 
-! LaTeX Error: \begin{itemize} on input line 350 ended by \end{tabular*}.
+! LaTeX Error: \begin{itemize} on input line 352 ended by \end{tabular*}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.356   \resumeSubHeadingListEnd
+l.358   \resumeSubHeadingListEnd
                                 
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -852,7 +869,7 @@ or  <return>  to continue without it.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.356   \resumeSubHeadingListEnd
+l.358   \resumeSubHeadingListEnd
                                 
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -860,23 +877,23 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 376.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 378.
 [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 376.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 378.
  (./talha_hanif_resume.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 376.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 376.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 378.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 378.
 Package rerunfilecheck Info: File `talha_hanif_resume.out' has not changed.
 (rerunfilecheck)             Checksum: BF9FFA01481557936CB3110F2A2723F0;230.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 376.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 378.
  ) 
 Here is how much of TeX's memory you used:
- 6497 strings out of 493029
- 94335 string characters out of 6136234
- 193773 words of memory out of 5000000
- 9971 multiletter control sequences out of 15000+600000
- 9530 words of font info for 37 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
+ 6495 strings out of 494910
+ 94316 string characters out of 6179836
+ 189088 words of memory out of 5000000
+ 9726 multiletter control sequences out of 15000+600000
+ 9232 words of font info for 36 fonts, out of 8000000 for 9000
+ 36 hyphenation exceptions out of 8191
  29i,11n,43p,296b,575s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
@@ -885,7 +902,7 @@ live/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/t
 exmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on talha_hanif_resume.pdf (3 pages, 104386 bytes).
+Output written on talha_hanif_resume.pdf (3 pages, 104474 bytes).
 PDF statistics:
  78 PDF objects out of 1000 (max. 8388607)
  65 compressed objects within 1 object stream
